@@ -73,7 +73,7 @@ const Contact = () => {
                         asChild
                       >
                         <a
-                          href="https://linkedin.com"
+                          href="https://www.linkedin.com/in/dasari-manoj-73358530a"
                           target="_blank"
                           rel="noopener noreferrer"
                           aria-label="LinkedIn"
@@ -88,7 +88,7 @@ const Contact = () => {
                         asChild
                       >
                         <a
-                          href="https://github.com"
+                          href="https://github.com/dasarimanoj89"
                           target="_blank"
                           rel="noopener noreferrer"
                           aria-label="GitHub"
